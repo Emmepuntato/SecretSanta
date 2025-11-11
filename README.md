@@ -1,7 +1,5 @@
 # babboApp
 
-App in sviluppo.
+Unfinishied app to sort out the players in the commonly known "secret Santa" game. This was an exercise to automatize the players assignment in pairs without overlapping.
 
-Vediti solo index.js per l'idea e il procedimento.
 
-il resto verrà sistemato in futuro
